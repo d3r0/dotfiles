@@ -5,6 +5,8 @@ alias gc='git commit'
 alias gp='git push'
 alias d='docker'
 alias dc='docker compose'
+alias vi='nvim'
+alias vim='nvim'
 
 alias dir='dirs -v'
 for index ({1..9}) alias "$index"="cd +${index}"; unset index

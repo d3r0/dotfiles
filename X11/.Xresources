@@ -34,6 +34,8 @@ URxvt*externalBorder: 0
 URxvt*internalBorder: 4
 URxvt*scrollBar: false
 URxvt*saveLines: 5000
+URxvt.depth: 32
+URxvt.background: [5]#000000
 
 ! Configure urxvt tabs plugin
 URxvt*perl-ext-common: default,tabbedex
